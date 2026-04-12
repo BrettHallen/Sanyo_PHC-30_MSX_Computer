@@ -17,6 +17,11 @@ Information about the 三洋 Sanyo PHC-30/PHC-30N computer.
 - [Part 1: Initial Look](https://youtu.be/X6lxfxol4aE)
 - [Part 2: Pico9918 & Keyboard Refurbish](https://youtu.be/wInAnoi41x8)
 
+## TMS9118 Replacement
+I replaced the TMS9118 with a [Pico9918](https://github.com/visrealm/pico9918).  I had to de-solder the TMS9118 but it came out with a little gentle coaxing - I used my ENGINEER SS-03 Solder Sucker.<br>
+
+There is one small issue: blank screen when doing a warm restart by pressing the RESET button but Troy has already sent me some test firmware to try out.<br>
+
 ## [Replacement Power Supply](/Sanyo_PHC-30_PSU)
 My attempt at a "universal" 12VDC power supply to replace the original Japanese 100VAC power supply.<br>
 
