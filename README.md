@@ -3,6 +3,16 @@ Information about the 三洋 Sanyo PHC-30/PHC-30N computer.
 
 ![Sanyo PHC-30N](/Images/Sanyo_PHC-30N_Case_small.png)
 
+## Specifications
+- Sharp LH0080A Z80 CPU
+- Fujitsu MB64H120 gate array (mask code Z03?)
+- Mitsubishi M5L8255AP-5 peripheral interface (PPI)
+- Hitachi HN613256P 32Kbit ROM (mask code Y00)
+- General Instruments AY-3-8910 Programmable Sound Generator (PSG)
+- 8 x Fujitsu MB8264A-15 64K x 1-bit main DRAM (64KB)
+- TI TMS9118NL Video Display Processor (VDP)
+- 2 x TI TMS4416-20NL 16K x 4-bit video DRAM (16KB)
+
 ## YouTube Videos
 - [Part 1: Initial Look](https://youtu.be/X6lxfxol4aE)
 - [Part 2: Pico9918 & Keyboard Refurbish](https://youtu.be/wInAnoi41x8)
