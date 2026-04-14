@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "MSX1_Cartridge")(type "KiCad")(uri "${KIPRJMOD}/MSX1_Cartridge.pretty")(options "")(descr ""))
+)

@@ -1,0 +1,8 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
+109.47595,-110.689208,90.0,top,C1,,,C_Disc_D3.4mm_W2.1mm_P2.50mm,100nF,tht
+125.747975,-123.867975,0.0,top,J1,,,MSX1 Cartridge,MSX1 Cartridge,smt
+148.297975,-111.021233,90.0,top,J2,,,PinHeader_1x04_P2.54mm_Vertical,Conn_01x04,tht
+145.122975,-91.971233,0.0,top,J3,,,PinHeader_1x01_P2.54mm_Vertical,Conn_01x01,tht
+121.645975,-65.979175,0.0,top,RN1,,,R_Array_SIP5,10KΩ,tht
+130.535975,-53.279175,-90.0,top,SW1,,,SW_DIP_SPSTx04_Slide_9.78x12.34mm_W7.62mm_P2.54mm,32KB Bank Select,tht
+133.634775,-110.657775,180.0,top,U1,,,DIP-32_W15.24mm_Socket_LongPads,27C040,tht
