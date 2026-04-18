@@ -1,0 +1,8 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Description
+J1,1,DE9 Female,DSUB-9_Socket_EdgeMount_P2.77mm,,,,smt,"9-pin D-SUB connector, socket (female)"
+J2,1,Pin Header,PinHeader_1x09_P2.54mm_Vertical,,,,tht,"Generic connector, single row, 01x09, script generated (kicad-library-utils/schlib/autogen/connector/)"
+SW1,1,UP,SW_PUSH-12mm,,,,tht,"Push button switch, normally open, two pins, 45° tilted"
+SW2,1,DOWN,SW_PUSH-12mm,,,,tht,"Push button switch, normally open, two pins, 45° tilted"
+SW3,1,LEFT,SW_PUSH-12mm,,,,tht,"Push button switch, normally open, two pins, 45° tilted"
+SW4,1,RIGHT,SW_PUSH-12mm,,,,tht,"Push button switch, normally open, two pins, 45° tilted"
+"SW5, SW6",2,FIRE,SW_PUSH-12mm,,,,tht,"Push button switch, normally open, two pins, 45° tilted"
