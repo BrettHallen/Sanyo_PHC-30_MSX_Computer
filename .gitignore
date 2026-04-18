@@ -6,3 +6,5 @@ Sanyo_PHC-30_PSU/fp-info-cache
 *.bak
 MSX1_Cartridge/fp-info-cache
 /MSX1_Cartridge/MSX1_Cartridge-backups
+/MSX_Joypad/MSX_Joypad-backups
+MSX_Joypad/fp-info-cache
