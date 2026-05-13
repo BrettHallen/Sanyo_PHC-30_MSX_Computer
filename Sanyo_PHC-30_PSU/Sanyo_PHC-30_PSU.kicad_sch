@@ -2289,7 +2289,7 @@
 			)
 		)
 		(instances
-			(project ""
+			(project "Sanyo_PHC-30_PSU"
 				(path "/5701d330-320f-44bd-abfd-142c6c413949"
 					(reference "H4")
 					(unit 1)
@@ -2353,7 +2353,7 @@
 			)
 		)
 		(instances
-			(project ""
+			(project "Sanyo_PHC-30_PSU"
 				(path "/5701d330-320f-44bd-abfd-142c6c413949"
 					(reference "H3")
 					(unit 1)
@@ -2363,7 +2363,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Polarized")
-		(at 123.19 69.85 180)
+		(at 123.19 69.85 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2372,25 +2372,25 @@
 		(fields_autoplaced yes)
 		(uuid "3e9f014a-9d48-4854-8b1b-748634b47a86")
 		(property "Reference" "C3"
-			(at 127 69.4689 0)
+			(at 127 67.6909 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "100µF"
-			(at 127 72.0089 0)
+			(at 127 70.2309 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm"
-			(at 122.2248 66.04 0)
+			(at 124.1552 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2423,7 +2423,7 @@
 			(uuid "90527231-1338-4fdb-ad32-7b987a34b097")
 		)
 		(instances
-			(project ""
+			(project "Sanyo_PHC-30_PSU"
 				(path "/5701d330-320f-44bd-abfd-142c6c413949"
 					(reference "C3")
 					(unit 1)
@@ -2551,7 +2551,7 @@
 			(uuid "e5ee3861-9219-47c5-a615-3542df8f3c48")
 		)
 		(instances
-			(project ""
+			(project "Sanyo_PHC-30_PSU"
 				(path "/5701d330-320f-44bd-abfd-142c6c413949"
 					(reference "U2")
 					(unit 1)
@@ -2691,7 +2691,7 @@
 			(uuid "95e3a365-eb92-4a7a-a025-d48106a3521b")
 		)
 		(instances
-			(project ""
+			(project "Sanyo_PHC-30_PSU"
 				(path "/5701d330-320f-44bd-abfd-142c6c413949"
 					(reference "C1")
 					(unit 1)
@@ -2756,7 +2756,7 @@
 			(uuid "0df4d1ee-2a93-432c-88a9-38babadc6bbc")
 		)
 		(instances
-			(project ""
+			(project "Sanyo_PHC-30_PSU"
 				(path "/5701d330-320f-44bd-abfd-142c6c413949"
 					(reference "J4")
 					(unit 1)
@@ -2824,7 +2824,7 @@
 			(uuid "f717b620-53fc-4630-bf15-0f072cc63f5a")
 		)
 		(instances
-			(project ""
+			(project "Sanyo_PHC-30_PSU"
 				(path "/5701d330-320f-44bd-abfd-142c6c413949"
 					(reference "J2")
 					(unit 1)
@@ -2906,7 +2906,7 @@
 			(uuid "f41efcf7-3bf3-48f3-b9a6-100da9c0faae")
 		)
 		(instances
-			(project ""
+			(project "Sanyo_PHC-30_PSU"
 				(path "/5701d330-320f-44bd-abfd-142c6c413949"
 					(reference "J3")
 					(unit 1)
@@ -2979,7 +2979,7 @@
 			(uuid "cdb2836f-62f8-463a-b29f-bb845b3afb48")
 		)
 		(instances
-			(project ""
+			(project "Sanyo_PHC-30_PSU"
 				(path "/5701d330-320f-44bd-abfd-142c6c413949"
 					(reference "U1")
 					(unit 1)
@@ -3043,7 +3043,7 @@
 			)
 		)
 		(instances
-			(project ""
+			(project "Sanyo_PHC-30_PSU"
 				(path "/5701d330-320f-44bd-abfd-142c6c413949"
 					(reference "H2")
 					(unit 1)
@@ -3180,7 +3180,7 @@
 			(uuid "17344ae8-2044-4ea8-8419-35115c49770e")
 		)
 		(instances
-			(project ""
+			(project "Sanyo_PHC-30_PSU"
 				(path "/5701d330-320f-44bd-abfd-142c6c413949"
 					(reference "L1")
 					(unit 1)
@@ -3244,7 +3244,7 @@
 			)
 		)
 		(instances
-			(project ""
+			(project "Sanyo_PHC-30_PSU"
 				(path "/5701d330-320f-44bd-abfd-142c6c413949"
 					(reference "H1")
 					(unit 1)
@@ -3314,7 +3314,7 @@
 			(uuid "90527231-1338-4fdb-ad32-7b987a34b098")
 		)
 		(instances
-			(project ""
+			(project "Sanyo_PHC-30_PSU"
 				(path "/5701d330-320f-44bd-abfd-142c6c413949"
 					(reference "C2")
 					(unit 1)
@@ -3449,7 +3449,7 @@
 			(uuid "eedc61c8-9629-4fa1-95e6-ae25a65b77de")
 		)
 		(instances
-			(project ""
+			(project "Sanyo_PHC-30_PSU"
 				(path "/5701d330-320f-44bd-abfd-142c6c413949"
 					(reference "F1")
 					(unit 1)
